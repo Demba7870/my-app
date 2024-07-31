@@ -1,10 +1,4 @@
 
-
-
-const cart  = [];
-
-
-
 let productsHTML = '';
 
 products.forEach((product)=> {
